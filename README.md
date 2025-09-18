@@ -28,6 +28,8 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Marc-Diaz&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
@@ -39,8 +41,9 @@
   />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Marc-Diaz&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
 </picture>
-
+-->
 <!-- TOP LANGS -->
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Diaz&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
