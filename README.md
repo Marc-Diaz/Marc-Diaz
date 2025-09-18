@@ -16,7 +16,7 @@
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- STATS -->
+## 📊 GitHub Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Marc-Diaz&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
